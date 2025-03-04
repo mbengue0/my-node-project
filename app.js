@@ -1,1 +1,1 @@
-console.log("Here is web dev class!");
+console.log("Here is web dev class! Here we are");
